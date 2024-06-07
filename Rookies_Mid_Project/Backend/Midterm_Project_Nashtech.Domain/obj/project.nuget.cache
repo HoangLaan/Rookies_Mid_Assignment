@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4MpNnYBJzA/JKlJUn5imHcy8zUsDSUfRGoHRbIentamLwC2YFGGasUniJP2syRaATgAJzzdIALQvWGMPvqrtAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GL75\\OneDrive\\Máy tính\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech.Domain\\Midterm_Project_Nashtech.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GL75\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\GL75\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\GL75\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\GL75\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\GL75\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
