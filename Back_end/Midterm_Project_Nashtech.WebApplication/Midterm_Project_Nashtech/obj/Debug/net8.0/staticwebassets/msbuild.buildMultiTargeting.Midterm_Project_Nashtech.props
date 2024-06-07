@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Midterm_Project_Nashtech.props" />
+</Project>

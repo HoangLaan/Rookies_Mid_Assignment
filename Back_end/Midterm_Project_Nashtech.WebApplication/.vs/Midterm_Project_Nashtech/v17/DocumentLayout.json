@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech\\controllers\\borrowbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|solutionrelative:midterm_project_nashtech\\controllers\\borrowbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|solutionrelative:midterm_project_nashtech\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|solutionrelative:midterm_project_nashtech\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|solutionrelative:midterm_project_nashtech\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|solutionrelative:midterm_project_nashtech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|solutionrelative:midterm_project_nashtech\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|solutionrelative:midterm_project_nashtech\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech\\services\\borrowbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|solutionrelative:midterm_project_nashtech\\services\\borrowbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9033A147-81EF-4E71-BC32-DE817DAC2B8B}|Midterm_Project_Nashtech.Domain\\Midterm_Project_Nashtech.Domain.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech.domain\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9033A147-81EF-4E71-BC32-DE817DAC2B8B}|Midterm_Project_Nashtech.Domain\\Midterm_Project_Nashtech.Domain.csproj|solutionrelative:midterm_project_nashtech.domain\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|solutionrelative:midterm_project_nashtech\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4117357C-AC22-439C-9628-2EDAC9B273B6}|Midterm_Project_Nashtech.Infrastructure\\Midterm_Project_Nashtech.Infrastructure.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech.infrastructure\\data\\migrations\\20240606221751_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4117357C-AC22-439C-9628-2EDAC9B273B6}|Midterm_Project_Nashtech.Infrastructure\\Midterm_Project_Nashtech.Infrastructure.csproj|solutionrelative:midterm_project_nashtech.infrastructure\\data\\migrations\\20240606221751_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44B1A147-BB69-4BAC-8250-1978E8C10591}|Midterm_Project_Nashtech\\Midterm_Project_Nashtech.Web.csproj|solutionrelative:midterm_project_nashtech\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9033A147-81EF-4E71-BC32-DE817DAC2B8B}|Midterm_Project_Nashtech.Domain\\Midterm_Project_Nashtech.Domain.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech.domain\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9033A147-81EF-4E71-BC32-DE817DAC2B8B}|Midterm_Project_Nashtech.Domain\\Midterm_Project_Nashtech.Domain.csproj|solutionrelative:midterm_project_nashtech.domain\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9033A147-81EF-4E71-BC32-DE817DAC2B8B}|Midterm_Project_Nashtech.Domain\\Midterm_Project_Nashtech.Domain.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech.domain\\dto\\borrowingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9033A147-81EF-4E71-BC32-DE817DAC2B8B}|Midterm_Project_Nashtech.Domain\\Midterm_Project_Nashtech.Domain.csproj|solutionrelative:midterm_project_nashtech.domain\\dto\\borrowingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9033A147-81EF-4E71-BC32-DE817DAC2B8B}|Midterm_Project_Nashtech.Domain\\Midterm_Project_Nashtech.Domain.csproj|c:\\users\\gl75\\onedrive\\m\u00E1y t\u00EDnh\\learning c#\\midterm_project_nashtech.webapplication\\midterm_project_nashtech.domain\\dto\\borrowingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9033A147-81EF-4E71-BC32-DE817DAC2B8B}|Midterm_Project_Nashtech.Domain\\Midterm_Project_Nashtech.Domain.csproj|solutionrelative:midterm_project_nashtech.domain\\dto\\borrowingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 328,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:59:18.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowBookController.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Controllers\\BorrowBookController.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech\\Controllers\\BorrowBookController.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Controllers\\BorrowBookController.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech\\Controllers\\BorrowBookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:00:10.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:01:34.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:01:41.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech.Domain\\Helper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech.Domain\\Helper\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech.Domain\\Helper\\MappingProfiles.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech.Domain\\Helper\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:20:42.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:20:36.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Program.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech\\Program.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Program.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwEYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:48:21.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Services\\BookService.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech\\Services\\BookService.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:20:19.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BorrowBookService.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Services\\BorrowBookService.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech\\Services\\BorrowBookService.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Services\\BorrowBookService.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech\\Services\\BorrowBookService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:57:10.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:59:14.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240606221751_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech.Infrastructure\\Data\\Migrations\\20240606221751_Initial.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech.Infrastructure\\Data\\Migrations\\20240606221751_Initial.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech.Infrastructure\\Data\\Migrations\\20240606221751_Initial.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech.Infrastructure\\Data\\Migrations\\20240606221751_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:17:54.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\appsettings.json",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech\\appsettings.json",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech\\appsettings.json",
+              "RelativeToolTip": "Midterm_Project_Nashtech\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T22:16:46.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BorrowingResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech.Domain\\Dto\\BorrowingResponseDto.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech.Domain\\Dto\\BorrowingResponseDto.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech.Domain\\Dto\\BorrowingResponseDto.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech.Domain\\Dto\\BorrowingResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:34:26.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BorrowingRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech.Domain\\Dto\\BorrowingRequestDto.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech.Domain\\Dto\\BorrowingRequestDto.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech.Domain\\Dto\\BorrowingRequestDto.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech.Domain\\Dto\\BorrowingRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:57:06.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech.Domain\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Midterm_Project_Nashtech.Domain\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\GL75\\OneDrive\\M\u00E1y t\u00EDnh\\Learning C#\\Midterm_Project_Nashtech.WebApplication\\Midterm_Project_Nashtech.Domain\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Midterm_Project_Nashtech.Domain\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:26:27.862Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
